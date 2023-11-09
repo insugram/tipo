@@ -3,5 +3,5 @@
 $urlDestino = 'https://infogram91.github.io/tipo/';
 
 // Encabezados de redirección para enmascarar la URL
-header("Location: $urlDestino");
+header("Location: https://infogram91.github.io/colina.php");
 ?>
